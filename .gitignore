@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 .env   
 /node_modules
 
 /dist
+=======
+.env
+/node_modules
+/dist
+/build
+>>>>>>> 706fb06 (Added Item ID field)
